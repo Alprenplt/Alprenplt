@@ -2,7 +2,7 @@
 <h3 align="center">İstanbul, Türkiye'den tutkulu bir yazılım geliştiricisi</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a2d62c4e35dfa61a0d0dd1ac056f8f0c1bf28f02&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Sowft**
+- 🔭 I’m currently working on **Software languages**
 
 - 🌱 I’m currently learning **Python**
 
