@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen POLAT</h1>
-<h3 align="center">An ambitious software developer from Istanbul, Turkey</h3>
+<h3 align="center">An ambitious computer engineer from Istanbul, Turkey</h3>
 <img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp">
 
 - 🔭 I’m currently working on **Software languages**
