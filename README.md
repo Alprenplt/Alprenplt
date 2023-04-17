@@ -4,13 +4,7 @@
 
 - 🔭 I’m currently working on **Software languages**
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Software**
-
-- 📫 How to reach me **alperen.polat05@hotmail.com**
-
-- ⚡ Fun fact **I am passionate**
+- 📫 Reach me  **alperen.polat05@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
