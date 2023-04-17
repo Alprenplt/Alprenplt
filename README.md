@@ -19,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alprenplt&show_icons=true&locale=en&layout=compact" alt="alprenplt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alprenplt&show_icons=true&locale=en" alt="alprenplt" /></p>
