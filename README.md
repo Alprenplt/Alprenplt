@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alperen POLAT</h1>
 <h3 align="center">An ambitious computer engineer from Istanbul, Turkey</h3>
-<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp">
+<img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp">
 
 - 🔭 I’m currently working on **Software languages**
 
