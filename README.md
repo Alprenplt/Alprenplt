@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/polat_alp_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="polat_alp_" height="30" width="40" /></a>
-<a href="[ ](https://www.linkedin.com/in/alperen-polat-70980a225/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen-polat" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/alperen-polat-70980a225/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen-polat" height="30" width="40" /></a>
 <a href="https://instagram.com/alprenplt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alprenplt" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@Alpharen#2923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alpharen#2923" height="30" width="40" /></a>
 </p>
